@@ -1,0 +1,3 @@
+LeaderboardHead
+Rank	Name	Attempts
+1		lol 	1
